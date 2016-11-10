@@ -3,6 +3,8 @@ AddiBooksXML (A Sigil Plugin)
 
 Add proprietary iBooks' xml files to an epub in Sigil.
 
+**NOTE: this plugin periodically checks for updated versions by connecting to this Github repository**
+
 Links
 =====
 
