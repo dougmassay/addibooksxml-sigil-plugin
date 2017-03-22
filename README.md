@@ -73,6 +73,6 @@ Feel free to fork the repository and submit pull requests (or just use it privat
 License Information
 =======
 
-###AddiBooksXML
+### AddiBooksXML
 
     Licensed under the GPLv3.
